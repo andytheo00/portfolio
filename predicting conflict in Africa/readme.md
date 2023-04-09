@@ -1,1 +1,1 @@
-Check my Python to see how I cleaned, analyzed remote sensing data to understand the impacts of climate change in Sub Saharan Africa. 
+The code shown above shows how I manipulated information about the Horn of Africa to predict conflict. 
